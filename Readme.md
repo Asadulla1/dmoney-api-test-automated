@@ -20,6 +20,10 @@
 
 - Report will be generated in the Reports folder!
 
+## Postman Documentation
+
+- <a href="https://documenter.getpostman.com/view/39989719/2sAYdoFSkX">Click Here</a>
+
 ## Test Report
 
 ![Newman Report](Newman_report.jpg)
