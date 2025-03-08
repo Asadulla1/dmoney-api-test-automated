@@ -20,9 +20,17 @@
 
 - Report will be generated in the Reports folder!
 
+# Test Case Report
+
+- <a href="https://docs.google.com/spreadsheets/d/1PPquhYZzaqhdaYx7eB6gYVClCHqwadxo/edit?usp=sharing&ouid=100285197147699236704&rtpof=true&sd=true">Click Here to test case</a>
+
 ## Postman Documentation
 
 - <a href="https://documenter.getpostman.com/view/39989719/2sAYdoFSkX">Click Here</a>
+
+## Bug Report
+
+- <a href="https://docs.google.com/spreadsheets/d/1GTYgJWEhvlxdzxaHZxXKksVlI5AHAVae/edit?usp=sharing&ouid=100285197147699236704&rtpof=true&sd=true">Click Here to see bug report</a>
 
 ## Test Report
 
